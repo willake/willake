@@ -5,7 +5,7 @@
 ---
 - 💻 Former Seekrtech Software Engineer (Famous for [Forest](https://www.forestapp.cc/)🌱)
 - 🎓 **Game And Media Technology** graudate student at [Utrecht University](https://www.uu.nl/) in the Netherlands
-- 🎮 I made a [Hades mod](https://github.com/willake/hades-dark-zagreus-mod) dynamic adjustment adgent with deep learning
+- 🎮 I made a [Hades mod](https://github.com/willake/hades-dark-zagreus-mod), implementing a dynamic difficulty adjustment adgent with deep learning
 - 🌱 Learning: `java`, `springboot`, and `C++` currently
 - ⭐ Intrested in: `Game dev`, `backend`, and `Artificial Intelligence`
 - 📫 Reach out: `huienlin.game@gmail.com`
